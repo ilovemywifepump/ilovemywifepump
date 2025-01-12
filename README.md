@@ -1,16 +1,19 @@
-## Hi there 👋
+ILOVE - ilovemywife Memecoin
 
-<!--
-**ilovemywifepump/ilovemywifepump** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Name
+ilovemywife
 
-Here are some ideas to get you started:
+Ticker Symbol
+ILOVE
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Launched on
+Pump.fun
+
+Contract Address
+GAiY7y3tRNTdNKVhr5q58YQJkx587YuZWwn2hYSjpump
+
+Concept
+This memecoin celebrates the love and commitment to one's spouse, aiming to resonate with those who value marriage and partnership. The coin symbolizes affection, loyalty, and the joy of companionship. Every time when you think about your wife, you can buy this token to show the world that you love her.
+
+Links
+https://linktr.ee/ilovemywifepump
